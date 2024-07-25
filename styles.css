@@ -35,8 +35,6 @@ body {
     border-color: green;
     border-style: solid;
     font-size: 35px;
-    background: linear-gradient(to
-     bottom, rgba(255, 255, 255, 0.432) 10%, rgba(0, 128, 0, 0.993));
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.432) 10%, rgba(0, 128, 0, 0.993));
     color: white;
-    padding-inline: 20px
-}
+    padding-inline: 20px;
